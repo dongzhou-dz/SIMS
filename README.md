@@ -1,2 +1,2 @@
-# SIMS
-学生信息管理
+# Student Information Management System
+信息管理
